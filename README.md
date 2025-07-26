@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # roller_dice
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Dice-roller
+The Dice Roller simple flutter application
+>>>>>>> daaf8360777eb70f05b9857e3eec3db9c96c81e1
